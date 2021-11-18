@@ -1,7 +1,15 @@
-nav{
-    background-color: darkturquoise;
-    position: fixed;
-    height: 70px;
-    width: 100%;
-    
+nav {
+    background-color: blueviolet; height: 100px;
+}
+.row {
+    height: 500px;
+}
+.left {
+    background-color: black; 
+}
+.right {
+    background-color: green;
+}
+footer {
+    background-color: orangered; height: 100px;
 }
